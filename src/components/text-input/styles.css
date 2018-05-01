@@ -1,0 +1,13 @@
+.__text-input {
+  margin: 8px;
+  display: block;
+  border: 1px solid #bbb;
+  color: #515151;
+  outline: 0;
+  padding: 6px;
+  font-size: 1.1em;
+  min-width: 200px;
+  border-radius: 4px;
+  background-size: 16px 16px;
+  padding-left: 32px;
+}
