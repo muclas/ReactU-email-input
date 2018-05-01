@@ -1,0 +1,12 @@
+.__email-input {
+  border: 1px solid #bbb;
+  color: #515151;
+  outline: 0;
+  padding: 6px;
+  font-size: 1.1em;
+  min-width: 200px;
+  border-radius: 4px;
+  background: url('/email-icon.png') no-repeat 10px 8px;
+  background-size: 16px 16px;
+  padding-left: 32px;
+}
